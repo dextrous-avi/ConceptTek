@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptTek", "ConceptTek\ConceptTek.csproj", "{97822A2C-B2D6-467B-AFE3-733C7CFE4926}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptTek.DataAccess", "ConceptTek.DataAccess\ConceptTek.DataAccess.csproj", "{FFAA70E7-D9BD-4E79-9FEE-313918EA4B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptTek.Models", "ConceptTek.Models\ConceptTek.Models.csproj", "{896BFD65-442A-4CC0-B391-CDE29CC37F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptTek.Utility", "ConceptTek.Utility\ConceptTek.Utility.csproj", "{79458BC7-6A0B-43BE-9773-DAC1C12216E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +19,17 @@ Global
 		{97822A2C-B2D6-467B-AFE3-733C7CFE4926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97822A2C-B2D6-467B-AFE3-733C7CFE4926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97822A2C-B2D6-467B-AFE3-733C7CFE4926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAA70E7-D9BD-4E79-9FEE-313918EA4B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAA70E7-D9BD-4E79-9FEE-313918EA4B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAA70E7-D9BD-4E79-9FEE-313918EA4B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAA70E7-D9BD-4E79-9FEE-313918EA4B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896BFD65-442A-4CC0-B391-CDE29CC37F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896BFD65-442A-4CC0-B391-CDE29CC37F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896BFD65-442A-4CC0-B391-CDE29CC37F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896BFD65-442A-4CC0-B391-CDE29CC37F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79458BC7-6A0B-43BE-9773-DAC1C12216E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79458BC7-6A0B-43BE-9773-DAC1C12216E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79458BC7-6A0B-43BE-9773-DAC1C12216E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79458BC7-6A0B-43BE-9773-DAC1C12216E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
