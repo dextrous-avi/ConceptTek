@@ -1,0 +1,9 @@
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/bin/Debug/netcoreapp3.1/ConceptTek.Utility.deps.json
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/bin/Debug/netcoreapp3.1/ConceptTek.Utility.dll
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/bin/Debug/netcoreapp3.1/ConceptTek.Utility.pdb
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/obj/Debug/netcoreapp3.1/ConceptTek.Utility.csprojAssemblyReference.cache
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/obj/Debug/netcoreapp3.1/ConceptTek.Utility.csproj.CoreCompileInputs.cache
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/obj/Debug/netcoreapp3.1/ConceptTek.Utility.AssemblyInfoInputs.cache
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/obj/Debug/netcoreapp3.1/ConceptTek.Utility.AssemblyInfo.cs
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/obj/Debug/netcoreapp3.1/ConceptTek.Utility.dll
+/Users/avinash/Projects/ConceptTek/ConceptTek.Utility/obj/Debug/netcoreapp3.1/ConceptTek.Utility.pdb
