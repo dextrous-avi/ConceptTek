@@ -1,0 +1,17 @@
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.DataAccess.deps.json
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.DataAccess.dll
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.DataAccess.pdb
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.Models.dll
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.Utility.dll
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.Models.pdb
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.Utility.pdb
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/obj/Debug/netcoreapp3.1/ConceptTek.DataAccess.csprojAssemblyReference.cache
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/obj/Debug/netcoreapp3.1/ConceptTek.DataAccess.csproj.CoreCompileInputs.cache
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/obj/Debug/netcoreapp3.1/ConceptTek.DataAccess.AssemblyInfoInputs.cache
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/obj/Debug/netcoreapp3.1/ConceptTek.DataAccess.AssemblyInfo.cs
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/obj/Debug/netcoreapp3.1/ConceptTek.DataAccess.csproj.CopyComplete
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/obj/Debug/netcoreapp3.1/ConceptTek.DataAccess.dll
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/obj/Debug/netcoreapp3.1/ConceptTek.DataAccess.pdb
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.DataAccess.runtimeconfig.json
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/bin/Debug/netcoreapp3.1/ConceptTek.DataAccess.runtimeconfig.dev.json
+/Users/avinash/Projects/ConceptTek/ConceptTek.DataAccess/obj/Debug/netcoreapp3.1/ConceptTek.DataAccess.genruntimeconfig.cache
